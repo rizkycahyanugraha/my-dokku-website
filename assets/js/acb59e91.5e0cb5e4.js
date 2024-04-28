@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrekapan=self.webpackChunkrekapan||[]).push([[8896],{6253:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/my-dokku-website/blog/tags/facebook","allTagsPath":"/my-dokku-website/blog/tags","count":1,"unlisted":false}')}}]);
