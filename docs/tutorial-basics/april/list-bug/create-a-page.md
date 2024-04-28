@@ -8,7 +8,7 @@ Website dari outsource tidak bisa menambahkan drvier dikarenakan Alamat untuk dr
 
 import DocusaurusImageUrl from '@site/static/img/bug/outsourcebug.png'
 
-<img src={DocusaurusImageUrl} />;
+<img src={DocusaurusImageUrl} />
 
 ## Time
 
