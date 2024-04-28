@@ -1,0 +1,8 @@
+{
+  "label": "Bulan",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Berikut ringkasan yang terjadi selama satu bulan"
+  }
+}
